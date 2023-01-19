@@ -1,5 +1,5 @@
 You get lung cancer
 
-[Sell meth]()
+[Sell meth](meth.md)
 
 [Die](die.md)
