@@ -2,6 +2,6 @@
 
 You get lung cancer
 
-(Sell meth)
+[Sell meth](lung-cancer.md)
 
 (Die)
