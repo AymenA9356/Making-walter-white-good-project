@@ -1,4 +1,4 @@
-You find out selling meth is dangerous.
+# You find out selling meth is dangerous.
 
 [Sell candy instead of meth.](more-meth.md)
 

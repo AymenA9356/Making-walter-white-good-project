@@ -1,4 +1,4 @@
-You get lung cancer
+# You get lung cancer.
 
 [Sell meth](meth.md)
 
