@@ -1,5 +1,3 @@
-
-# You have died an honourable death
+# You die an honourable death.
 
 [Restart](lung-cancer.md)
-
