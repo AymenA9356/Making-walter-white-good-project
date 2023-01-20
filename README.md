@@ -1,3 +1,4 @@
 # Making-walter-white-good-project
 
-Begin [Breaking Bad.](lung-cancer.md)
+Begin [Breaking Bad](lung-cancer/lung-cancer.md)
+
