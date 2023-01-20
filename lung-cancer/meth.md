@@ -1,5 +1,5 @@
 # You find out selling meth is dangerous.
 
-[Sell candy instead of meth.](more-meth.md)
+[Sell candy instead of meth.](candy.md)
 
-[Keep selling meth.](candy.md)
+[Keep selling meth.](more-meth.md)
