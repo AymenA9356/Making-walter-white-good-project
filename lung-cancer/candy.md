@@ -1,3 +1,6 @@
 # You get a lawsuit from Saul Goodman and become poor.
 
-0.00
+[Kill Saul](bad-ending.md)
+
+[You convince him to not sue you](good-ending.md)
+
