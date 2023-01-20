@@ -4,3 +4,4 @@
 
 [You convince him to not sue you](good-ending.md)
 
+[Sell meth again](selling-meth-is-danger.md)

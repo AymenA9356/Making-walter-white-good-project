@@ -1,3 +1,3 @@
-You become rich from selling candy- Good Ending
+# You become rich from selling candy- Good Ending
 
 [Restart](lung-cancer.md)
