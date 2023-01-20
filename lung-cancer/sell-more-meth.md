@@ -1,3 +1,3 @@
 # Gustavo offers you a job.
-[Accept]
+[Accept](keep-cooking.md)
 [Decline](gus-kills-you.md)
