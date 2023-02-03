@@ -7,4 +7,4 @@
 ## [Link](https://docs.google.com/drawings/d/1UYh_cMXHoN6colTovAD3ychXhnlJZs6iI4bMEBz3KQo/edit) to google drawing.
 
 ## Github profile for [Aymen](https://github.com/AymenA9356)
-## Github profile for [David]()
+## Github profile for [David](https://github.com/davidg7188)
