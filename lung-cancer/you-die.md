@@ -1,1 +1,1 @@
-# Gus has Killed you Press [home](lung-cancer.md) to restart.
+# Gus finds out you want to quit and kills you. Press [home](lung-cancer.md) to restart.

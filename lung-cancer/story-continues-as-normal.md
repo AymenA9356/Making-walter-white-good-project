@@ -1,3 +1,3 @@
- Story continues as normal.
+ # The Breaking Bad story continues as normal.
 
- [Reastart](lung-cancer.md)
+ [Restart](lung-cancer.md)

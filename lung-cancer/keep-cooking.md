@@ -1,5 +1,5 @@
-# You keep cooking Meth And Cancer gets worse.
+# You keep cooking meth but decide to quit after making enough money, but Gus threatens to kill your family if you quit.
 
-[kill gus](story-continues-as-normal.md)
+[Kill gus](story-continues-as-normal.md)
 
-[spare gus](you-die.md)
+[Spare gus](you-die.md)
